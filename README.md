@@ -5,11 +5,20 @@ AHL2_580Plaza from the great Source mod Action Half-Life 2.
 
 This is a version for Garry's Mod, which adds a map icon and a spawn config for TTT.
 
-### Download AHL2 on ModDB:
-http://www.moddb.com/mods/action-halflife-2/
+### Steam Workshop:
+https://steamcommunity.com/sharedfiles/filedetails/?id=913993051
 
-### View the Collection on Steam:
+### Steam Collection:
 http://steamcommunity.com/sharedfiles/filedetails/?id=913994893
+
+### GarrysMods.org Mirror:
+https://garrysmods.org/download/60812/ahl2-580plaza
+
+### GarrysMods.org Collection:
+https://garrysmods.org/collection/1757/action-half-life-2
+
+### AHL2 on ModDB:
+http://www.moddb.com/mods/action-halflife-2/
 
 ### CREDITS
 
